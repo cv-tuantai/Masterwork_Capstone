@@ -419,7 +419,7 @@ header .fa-regular {
     font-size: 16px;
     line-height: 20px;
     font-weight: 700;
-    color: #dc4f72;
+    color: #dc4f72 !important;
     text-transform: uppercase;
     margin-bottom: 5px;
 }
